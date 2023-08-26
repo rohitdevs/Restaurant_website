@@ -90,6 +90,8 @@ line-height: normal;
   border-radius: 5px;
   background: #191D20;
 height: 65px;
+position: sticky;
+top: 0px;
 }
 
 .navbar4 img{

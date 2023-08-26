@@ -37,3 +37,8 @@ async function getMenu() {
 
 
 getMenu();
+
+
+ document.querySelector(".yourorders").addEventListener("click", () => {
+  document.querySelector(".rightmain").innerHTML("");
+});
