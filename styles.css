@@ -22,7 +22,7 @@
 
 
 .rightmain{
-  flex: 3;
+  flex: 4;
   background: #111315;
   height: 100vh;
   overflow-y: auto;
@@ -123,12 +123,12 @@ outline: none;
 
 .hero img{
   height: 370px;
-  width: 1150px;
+  width: 1213px;
 }
 
 .card{
-  width: 440px;
-  height: 350px;
+  width: 355px;
+  height: 320px;
   border-radius: 10px;
  background: #191D20;
  display: flex;
@@ -174,7 +174,6 @@ h3{
 }
 
 .topcard img{
-  width: 410px;
-height: 273px;
+  width: 320px;
 flex-shrink: 0;
 }
